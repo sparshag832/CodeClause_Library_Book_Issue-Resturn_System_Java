@@ -2,7 +2,7 @@
 
 A library management system is used to manage different duties that are associated with library via computer program.
 
-This system is made in Java programming language.
+This system is made in Java programming language. It will make the work of librarian easy and quick.
 
 It has following technolgies-
 
@@ -12,7 +12,7 @@ It has following technolgies-
 
 3.Swings and AWT
 
-4.Password Protection.
+4.Multiple Document Interface
 
 5.MySql
 
@@ -54,6 +54,7 @@ Return Book--
 
 ![0c759f76-df78-4e10-b2eb-4f8aaeb95071](https://github.com/sparshag832/Library_Book_Issue-Resturn_System_Java/assets/84582301/7e560034-f27e-4e88-b2c5-cc5d62d5fcbb)
 
+Automatic Fine Calculation--
 
 ![443130ab-024b-4d02-ae96-df4c232a239e](https://github.com/sparshag832/Library_Book_Issue-Resturn_System_Java/assets/84582301/832bdbb8-0c41-4965-8914-f56cd1dc25cc)
 
